@@ -13,7 +13,7 @@
   "author": "Jacherr",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.1",
     "ws": "^7.3.1"
   },
   "devDependencies": {
